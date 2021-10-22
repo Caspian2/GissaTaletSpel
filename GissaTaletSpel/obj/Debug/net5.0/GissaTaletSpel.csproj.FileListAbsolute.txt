@@ -1,0 +1,16 @@
+E:\Bigbeans\GissaTaletSpel\bin\Debug\net5.0\GissaTaletSpel.exe
+E:\Bigbeans\GissaTaletSpel\bin\Debug\net5.0\GissaTaletSpel.deps.json
+E:\Bigbeans\GissaTaletSpel\bin\Debug\net5.0\GissaTaletSpel.runtimeconfig.json
+E:\Bigbeans\GissaTaletSpel\bin\Debug\net5.0\GissaTaletSpel.runtimeconfig.dev.json
+E:\Bigbeans\GissaTaletSpel\bin\Debug\net5.0\GissaTaletSpel.dll
+E:\Bigbeans\GissaTaletSpel\bin\Debug\net5.0\ref\GissaTaletSpel.dll
+E:\Bigbeans\GissaTaletSpel\bin\Debug\net5.0\GissaTaletSpel.pdb
+E:\Bigbeans\GissaTaletSpel\obj\Debug\net5.0\GissaTaletSpel.csproj.AssemblyReference.cache
+E:\Bigbeans\GissaTaletSpel\obj\Debug\net5.0\GissaTaletSpel.GeneratedMSBuildEditorConfig.editorconfig
+E:\Bigbeans\GissaTaletSpel\obj\Debug\net5.0\GissaTaletSpel.AssemblyInfoInputs.cache
+E:\Bigbeans\GissaTaletSpel\obj\Debug\net5.0\GissaTaletSpel.AssemblyInfo.cs
+E:\Bigbeans\GissaTaletSpel\obj\Debug\net5.0\GissaTaletSpel.csproj.CoreCompileInputs.cache
+E:\Bigbeans\GissaTaletSpel\obj\Debug\net5.0\GissaTaletSpel.dll
+E:\Bigbeans\GissaTaletSpel\obj\Debug\net5.0\ref\GissaTaletSpel.dll
+E:\Bigbeans\GissaTaletSpel\obj\Debug\net5.0\GissaTaletSpel.pdb
+E:\Bigbeans\GissaTaletSpel\obj\Debug\net5.0\GissaTaletSpel.genruntimeconfig.cache

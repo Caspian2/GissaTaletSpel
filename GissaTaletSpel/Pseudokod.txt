@@ -1,0 +1,9 @@
+Koden väljer ett tal mellan 1-100 (hemligtTal)
+Koden säger att du ska gissa på ett tal mellan 1-100 (användarTal)
+Mednas användarTal inte är samma som hemligtTal så är spelet igång
+Om användarTal är mindre än hemligtTal skriver Koden att det du gissade på är litet
+Annars Om användarTal är högre än hemligtTal skriver Koden att det du gissade på är högt
+Annars skriver koden att du har vunnit och hur många försök du behövde
+Koden skriver om du vill trycka 1 för att spela igen och 2 för att avsluta
+Om spelaren trycker 1 startas spelet om
+Annars om spelar trycker 2 stängs spelet av
